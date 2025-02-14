@@ -1,77 +1,82 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
-  <h1>Hi, I'm CHVKRSUBASH!</h1>
-  <p><strong>Data Science Enthusiast | Python Developer | UI/UX Learner</strong></p>
-  <p>✨ Fueled by curiosity | 🎯 Building tomorrow's solutions | 🌍 Global citizen</p>
-  <p>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/) 
-    [![GitHub](https://img.shields.io/github/followers/chvkrsubhash?label=Follow&style=social)](https://github.com/chvkrsubhash)
-    [![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/chvkrsubhash/)
-    [![Google Developers](https://img.shields.io/badge/g.dev-Follow-4285F4?style=flat&logo=google)](https://g.dev/chvkrsubhash)
-    [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Follow-4285F4?style=flat&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/32d2cf65-a3f9-430d-bd11-350ac4a41674I)
-    [![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-FF69B4)](https://pronoun.is/he)
-  </p>
-</div>
+# 👋 Hello World! I'm [CHVKRSUBASH]
+
+**Data Science Enthusiast | Python Developer | UI/UX Learner**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/)
+[![GitHub](https://img.shields.io/github/followers/chvkrsubhash?label=Follow&style=social)](https://github.com/chvkrsubhash)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/chvkrsubhash/)
+[![Google Developers](https://img.shields.io/badge/g.dev-Follow-4285F4?style=flat&logo=google)](https://g.dev/chvkrsubhash)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Follow-4285F4?style=flat&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/32d2cf65-a3f9-430d-bd11-350ac4a41674)
+[![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-FF69B4)](https://pronoun.is/he)
+
+✨ **Fueled by curiosity** | 🎯 **Building tomorrow's solutions** | 🌍 **Global citizen**
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Toolkit
 
-I'm a passionate developer who loves to blend data science with cloud innovation and creative UI/UX. I enjoy exploring cutting‐edge AI/ML technologies, building interactive dashboards, and designing intuitive digital experiences.
+**Data Science**
 
----
+- ![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)
+- ![R](https://img.shields.io/badge/R-Intermediate-276DC3?logo=r)
+- ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1)
+- ![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?logo=tableau)
 
-## 🛠️ Skills & Tech Stack
+**Cloud Computing**
 
-### Data Science
-- **Languages:** Python, R, SQL
-- **Tools:** Tableau
-
-### Cloud Computing
-- **AWS:** EC2, S3, Lambda
-- **Azure:** VM, Functions
-- **GCP:** Compute Engine, Cloud Storage
+- ![AWS](https://img.shields.io/badge/AWS-EC2%2C%20S3%2C%20Lambda-FF9900?logo=amazon-aws)
+- ![Azure](https://img.shields.io/badge/Azure-VM%2C%20Functions-0078D4?logo=microsoft-azure)
+- ![GCP](https://img.shields.io/badge/GCP-Compute%20Engine%2C%20Cloud%20Storage-4285F4?logo=google-cloud)
 
 ---
 
 ## 🌱 Currently Growing
 
-- **AI & ML:** Experimenting with TensorFlow and PyTorch  
-- **Cloud:** Advancing hands-on skills in AWS, Azure, and GCP  
-- **Certifications:** Preparing for new cloud certifications  
-- **Books:** Currently reading *Atomic Habits* & *Clean Code*
+- 🤖 **Exploring** AI & ML with TensorFlow and PyTorch
+- ☁ **Enhancing** my cloud skills with hands-on labs in AWS, Azure, and GCP
+- 🎓 **Preparing** for cloud certifications
+- 📚 **Reading** "Atomic Habits" & "Clean Code"
 
 ---
 
 ## 📜 Certifications
 
-- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
-- **AWS Certified Cloud Practitioner (in progress)**
+- ✅ **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- ✅ **AWS Certified Cloud Practitioner (in progress)**
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I’m excited to work on projects related to:
-- **Data-Driven Solutions:** ML models and analytics dashboards  
-- **Cloud Deployments:** Serverless architectures and containerization  
-- **Visualization & Insights:** Interactive dashboards and reports  
-- **UI/UX & Data Storytelling:** Creative ways to communicate data
+I'm excited about projects involving:
+
+- **Data-Driven Solutions** (ML models, analytics dashboards)
+- **Cloud Deployments** (Serverless architectures, containerization)
+- **Visualization & Insights** (Dashboards & interactive reports)
+- **UI/UX & Data Storytelling** (Communicating insights effectively)
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:chvkrsubhash@outlook.con)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:chvkrsubhash@outlook.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" width="400"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" alt="Streak Stats" width="420"/>
+  <img src="https://komarev.com/ghpvc/?username=chvkrsubhash&style=flat-square&color=1f6feb" alt="Profile Views" />
 </div>
 
----
+<div align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" />
+  <img width="420px" src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" alt="GitHub Streak" />
+</div>
 
-**⚡ Fun Fact:** I once automated my morning coffee routine using Python!
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chvkrsubhash&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+</div>
+
+**⚡ Fun Fact:** I once automated my morning coffee routine using Python
