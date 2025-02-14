@@ -1,89 +1,77 @@
-# 👋 Hello World! I'm CHVKRSUBASH
-
-**Data Science Enthusiast | Python Developer | Cloud Explorer**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/chvkrsubhash)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/chvkrsubhash/)
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-FF4088?style=flat&logo=vercel&logoColor=white)](https://chvkrsubhash.netlify.app/)
-
-🌟 *Fueled by Curiosity | 🔭 Building Intelligent Solutions | 🌐 Global Tech Citizen*
-
----
-
-## 🧑💻 About Me
-
-A passionate data enthusiast with hands-on experience in Python development and cloud technologies. Currently exploring the intersection of AI/ML and cloud computing while building impactful data solutions.
-
-**Fun Fact:** Automated my morning coffee routine using Python ☕🤖
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
+  <h1>Hi, I'm CHVKRSUBASH!</h1>
+  <p><strong>Data Science Enthusiast | Python Developer | UI/UX Learner</strong></p>
+  <p>✨ Fueled by curiosity | 🎯 Building tomorrow's solutions | 🌍 Global citizen</p>
+  <p>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/v-k-r-subhash-ch-68533a288/) 
+    [![GitHub](https://img.shields.io/github/followers/chvkrsubhash?label=Follow&style=social)](https://github.com/chvkrsubhash)
+    [![LeetCode](https://img.shields.io/badge/LeetCode-Follow-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/chvkrsubhash/)
+    [![Google Developers](https://img.shields.io/badge/g.dev-Follow-4285F4?style=flat&logo=google)](https://g.dev/chvkrsubhash)
+    [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Follow-4285F4?style=flat&logo=google-cloud)](https://www.cloudskillsboost.google/public_profiles/32d2cf65-a3f9-430d-bd11-350ac4a41674I)
+    [![Pronouns](https://img.shields.io/badge/Pronouns-He/Him-FF69B4)](https://pronoun.is/he)
+  </p>
+</div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🚀 About Me
 
-### 🔬 Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
-### ☁ Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I'm a passionate developer who loves to blend data science with cloud innovation and creative UI/UX. I enjoy exploring cutting‐edge AI/ML technologies, building interactive dashboards, and designing intuitive digital experiences.
 
 ---
 
-## 🚀 Current Engagements
+## 🛠️ Skills & Tech Stack
 
-- 🔍 Exploring MLOps pipelines with TensorFlow Extended (TFX)
-- ☁️ Architecting serverless solutions on AWS Lambda
-- 📊 Building real-time analytics dashboards with Tableau
-- 📚 Mastering "Designing Data-Intensive Applications"
+### Data Science
+- **Languages:** Python, R, SQL
+- **Tools:** Tableau
+
+### Cloud Computing
+- **AWS:** EC2, S3, Lambda
+- **Azure:** VM, Functions
+- **GCP:** Compute Engine, Cloud Storage
+
+---
+
+## 🌱 Currently Growing
+
+- **AI & ML:** Experimenting with TensorFlow and PyTorch  
+- **Cloud:** Advancing hands-on skills in AWS, Azure, and GCP  
+- **Certifications:** Preparing for new cloud certifications  
+- **Books:** Currently reading *Atomic Habits* & *Clean Code*
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Provider | Status |
-|---------------|----------|--------|
-| Azure AI Fundamentals (AI-900) | Microsoft | ✅ Obtained |
-| AWS Certified Cloud Practitioner | Amazon | ⌛ In Progress |
-| Google Cloud Associate Engineer | Google | 🎯 2024 Target |
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- **AWS Certified Cloud Practitioner (in progress)**
 
 ---
 
-## 🌱 Let's Collaborate!
+## 🤝 Let's Collaborate!
 
-Looking for partners in:
-- Machine Learning deployment pipelines
-- Cloud-native application development
-- Data visualization & storytelling projects
-- Open source contributions in AI/ML
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=chvkrsubhash&theme=radical" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chvkrsubhash&theme=onedark&column=4&margin-w=15&margin-h=15" />
-</p>
+I’m excited to work on projects related to:
+- **Data-Driven Solutions:** ML models and analytics dashboards  
+- **Cloud Deployments:** Serverless architectures and containerization  
+- **Visualization & Insights:** Interactive dashboards and reports  
+- **UI/UX & Data Storytelling:** Creative ways to communicate data
 
 ---
 
 ## 📬 Connect With Me
 
-[![Email](https://img.shields.io/badge/📧_chvkrsubhash@outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:chvkrsubhash@outlook.com)
-[![Google Dev Profile](https://img.shields.io/badge/Google_Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/chvkrsubhash)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail)](mailto:chvkrsubhash@outlook.con)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-FF4088?style=flat)](https://chvkrsubhash.netlify.app/)
 
-*Let's build the future of data-driven solutions together!* 🚀
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chvkrsubhash&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" width="400"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=chvkrsubhash&theme=react" alt="Streak Stats" width="420"/>
+</div>
+
+---
+
+**⚡ Fun Fact:** I once automated my morning coffee routine using Python!
